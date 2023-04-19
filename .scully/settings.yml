@@ -1,0 +1,11 @@
+identifier: l4g2oc4830l1m864
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: withScully
+homeFolder: D:\PROJECTS\ANGULAR\withScully
+distFolder: dist/with-scully
+outDir: D:\PROJECTS\ANGULAR\withScully\dist\static
+handle404: ''
+allowErrorCollect: false
